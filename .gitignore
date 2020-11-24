@@ -1,0 +1,5 @@
+target
+web/*
+!web/img
+!web/index.html
+webgl-examples
